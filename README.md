@@ -1,3 +1,12 @@
 # Tiwara: Sahel Initiative portée par L'AFD
 
-![](make_storming_sahel.png)
+#### General Preview
+
+![](preview1.gif)
+
+
+#### Risks, Crisis and Conflicts 
+
+![](preview2.gif) 
+
+#### TODO
