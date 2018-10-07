@@ -18,7 +18,9 @@ See a preview [here](https://afdshiny.shinyapps.io/Tiwara/)
 
 #### Credit
 
-We make use of [bs4Dash](https://github.com/DivadNojnarg/bs4Dash), a bootstrap 4 shinydashboard using AdminLTE3.
+* [bs4Dash](https://github.com/DivadNojnarg/bs4Dash), a bootstrap 4 shinydashboard using AdminLTE3 by [David Granjon](https://twitter.com/divadnojnarg)
+* [rdbnomics](https://git.nomics.world/dbnomics/rdbnomics), Access DBnomics data series from R.
+* ... to be continued :)
 
 #### Issues
 
