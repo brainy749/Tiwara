@@ -1,4 +1,4 @@
-# Tiwara: Sahel Initiative portée par L'AFD
+# Tiwara: Sahel Initiative portée par L'AFD  
 
 #### General Preview
 
@@ -25,3 +25,4 @@ Issues are listed [here](https://github.com/brainy749/Tiwara/issues).
 
 See a preview [here](https://afdshiny.shinyapps.io/Tiwara/).
 
+![AFD](Logo_AFD_2016.png) 
