@@ -1,0 +1,871 @@
+dataset_code,indicator_label,ATTRIBUTE,indicator,series_name,provider_code,country_label,dataset_name,@frequency,country,series_code,period,value
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1960-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1961-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1962-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1963-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1964-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1965-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1966-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1967-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1968-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1969-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1970-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1971-01-01,44.4519004822
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1972-01-01,47.1578292847
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1973-01-01,47.183391571
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1974-01-01,45.0327911377
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1975-01-01,47.4987602234
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1976-01-01,47.1061096191
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1977-01-01,47.7816886902
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1978-01-01,49.9213485718
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1979-01-01,52.3202590942
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1980-01-01,52.9595985413
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1981-01-01,54.4851417542
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1982-01-01,59.7871284485
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1983-01-01,60.3486595154
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1984-01-01,57.7005805969
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1985-01-01,56.4900894165
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1986-01-01,57.7584991455
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1987-01-01,67.5456695557
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1988-01-01,64.7754364014
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1989-01-01,57.3590393066
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1990-01-01,55.1772003174
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1991-01-01,56.6566314697
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1992-01-01,57.8301086426
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1993-01-01,59.7794303894
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1994-01-01,58.255531311
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1995-01-01,50.9796905518
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1996-01-01,49.9390907288
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1997-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1998-01-01,46.5014915466
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,1999-01-01,49.0031814575
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2000-01-01,48.8763999939
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2001-01-01,47.4188995361
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2002-01-01,45.3781204224
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2003-01-01,44.6589317322
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2004-01-01,48.6929283142
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2005-01-01,47.1763687134
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2006-01-01,45.8314208984
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2007-01-01,47.6574516296
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2008-01-01,48.9215507507
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2009-01-01,48.9002609253
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2010-01-01,52.3998794556
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2011-01-01,52.6864089966
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2012-01-01,48.2390289307
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2013-01-01,46.0962295532
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2014-01-01,44.4989891052
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2015-01-01,42.1771507263
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2016-01-01,41.5492706299
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRM.ENRL.TC.ZS-BF,2017-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1960-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1961-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1962-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1963-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1964-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1965-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1966-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1967-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1968-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1969-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1970-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1971-01-01,40.0517082214
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1972-01-01,40.9179992676
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1973-01-01,40.3409309387
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1974-01-01,43.0378303528
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1975-01-01,41.0025596619
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1976-01-01,40.6233711243
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1977-01-01,40.6578903198
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1978-01-01,42.8836402893
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1979-01-01,42.6388015747
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1980-01-01,42.3443412781
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1981-01-01,42.4306297302
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1982-01-01,40.0585289001
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1983-01-01,37.355140686
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1984-01-01,35.0706100464
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1985-01-01,34.8439903259
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1986-01-01,34.0271186829
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1987-01-01,34.9197387695
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1988-01-01,37.8615188599
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1989-01-01,43.265171051
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1990-01-01,44.8985099792
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1991-01-01,48.4715499878
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1992-01-01,54.0796203613
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1993-01-01,56.9269104004
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1994-01-01,66.6129379272
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1995-01-01,74.0233306885
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1996-01-01,78.3623504639
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1997-01-01,80.443321228
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1998-01-01,79.505569458
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,1999-01-01,62.0790405273
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2000-01-01,65.3032073975
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2001-01-01,63.3775596619
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2002-01-01,56.4105110168
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2003-01-01,57.3447303772
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2004-01-01,52.2418708801
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2005-01-01,54.3882904053
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2006-01-01,52.7602500916
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2007-01-01,51.6688499451
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2008-01-01,51.4371910095
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2009-01-01,50.1455802917
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2010-01-01,50.3982582092
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2011-01-01,48.4733505249
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2012-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2013-01-01,41.2958183289
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2014-01-01,42.4744911194
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2015-01-01,42.7069511414
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2016-01-01,39.0860481262
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRM.ENRL.TC.ZS-ML,2017-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1960-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1961-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1962-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1963-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1964-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1965-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1966-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1967-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1968-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1969-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1970-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1971-01-01,24.000749588
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1972-01-01,22.0365905762
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1973-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1974-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1975-01-01,33.1257400513
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1976-01-01,35.0694885254
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1977-01-01,38.7356109619
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1978-01-01,41.3337097168
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1979-01-01,44.3769493103
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1980-01-01,45.657371521
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1981-01-01,41.470451355
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1982-01-01,43.6625289917
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1983-01-01,44.7271995544
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1984-01-01,45.392539978
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1985-01-01,46.3352813721
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1986-01-01,50.5820503235
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1987-01-01,49.8197212219
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1988-01-01,49.6970901489
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1989-01-01,48.8014793396
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1990-01-01,44.356880188
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1991-01-01,44.7016792297
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1992-01-01,46.6897697449
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1993-01-01,51.2764282227
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1994-01-01,52.9338493347
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1995-01-01,51.5262298584
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1996-01-01,51.2360801697
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1997-01-01,50.2282714844
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1998-01-01,46.7439117432
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,1999-01-01,47.0027198792
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2000-01-01,44.9895095825
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2001-01-01,41.7643585205
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2002-01-01,39.118598938
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2003-01-01,41.0577812195
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2004-01-01,40.760509491
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2005-01-01,40.3249702454
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2006-01-01,41.4121894836
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2007-01-01,42.5148086548
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2008-01-01,37.2279205322
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2009-01-01,39.0676994324
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2010-01-01,37.1518592834
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2011-01-01,39.2944297791
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2012-01-01,40.1293182373
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2013-01-01,35.3782501221
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2014-01-01,34.379108429
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2015-01-01,35.8119316101
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2016-01-01,36.3669586182
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRM.ENRL.TC.ZS-MR,2017-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1960-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1961-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1962-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1963-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1964-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1965-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1966-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1967-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1968-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1969-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1970-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1971-01-01,38.9424209595
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1972-01-01,37.4441413879
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1973-01-01,40.0842285156
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1974-01-01,40.3643989563
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1975-01-01,40.6805610657
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1976-01-01,39.3093681335
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1977-01-01,39.6902198792
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1978-01-01,41.0416488647
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1979-01-01,41.0008811951
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1980-01-01,39.1685295105
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1981-01-01,41.4742698669
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1982-01-01,42.1153717041
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1983-01-01,40.2879295349
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1984-01-01,39.501499176
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1985-01-01,35.6523017883
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1986-01-01,37.3698997498
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1987-01-01,38.1680107117
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1988-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1989-01-01,40.4988212585
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1990-01-01,40.7259483337
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1991-01-01,41.735370636
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1992-01-01,41.8921318054
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1993-01-01,38.5016517639
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1994-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1995-01-01,39.4573898315
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1996-01-01,39.0449295044
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1997-01-01,40.811088562
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1998-01-01,41.7553100586
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,1999-01-01,41.0670509338
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2000-01-01,40.6685409546
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2001-01-01,41.9063682556
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2002-01-01,41.266040802
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2003-01-01,41.7258796692
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2004-01-01,43.6949005127
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2005-01-01,43.6768684387
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2006-01-01,39.9841308594
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2007-01-01,39.673160553
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2008-01-01,40.7185287476
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2009-01-01,38.8321609497
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2010-01-01,38.6144485474
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2011-01-01,39.00207901
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2012-01-01,38.755241394
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2013-01-01,36.314491272
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2014-01-01,35.7527503967
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2015-01-01,36.6288986206
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2016-01-01,36.2582015991
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRM.ENRL.TC.ZS-NE,2017-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1960-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1961-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1962-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1963-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1964-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1965-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1966-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1967-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1968-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1969-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1970-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1971-01-01,64.8902282715
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1972-01-01,66.0043029785
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1973-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1974-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1975-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1976-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1977-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1978-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1979-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1980-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1981-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1982-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1983-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1984-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1985-01-01,64.1918106079
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1986-01-01,70.6457366943
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1987-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1988-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1989-01-01,68.3736114502
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1990-01-01,67.1804275513
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1991-01-01,65.8101501465
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1992-01-01,62.3087882996
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1993-01-01,NA
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1994-01-01,60.9101600647
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1995-01-01,62.0548400879
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1996-01-01,62.958278656
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1997-01-01,67.0780181885
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1998-01-01,67.5661010742
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,1999-01-01,67.884262085
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2000-01-01,68.6206665039
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2001-01-01,71.2225189209
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2002-01-01,67.9511032104
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2003-01-01,72.1157836914
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2004-01-01,68.7188034058
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2005-01-01,63.1543807983
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2006-01-01,62.7230796814
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2007-01-01,60.3792495728
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2008-01-01,62.4015312195
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2009-01-01,61.0196113586
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2010-01-01,62.2039299011
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2011-01-01,62.5905609131
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2012-01-01,61.2676315308
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2013-01-01,62.4276313782
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2014-01-01,56.1660194397
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2015-01-01,55.5417900085
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2016-01-01,56.887878418
+WDI,"Pupil-teacher ratio, primary",,SE.PRM.ENRL.TC.ZS,"Pupil-teacher ratio, primary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRM.ENRL.TC.ZS-TD,2017-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1960-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1961-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1962-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1963-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1964-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1965-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1966-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1967-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1968-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1969-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1970-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1971-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1972-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1973-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1974-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1975-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1976-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1977-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1978-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1979-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1980-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1981-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1982-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1983-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1984-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1985-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1986-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1987-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1988-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1989-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1990-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1991-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1992-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1993-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1994-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1995-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1996-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1997-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1998-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,1999-01-01,29.217590332
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2000-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2001-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2002-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2003-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2004-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2005-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2006-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2007-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2008-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2009-01-01,30.0228691101
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2010-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2011-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2012-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2013-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2014-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2015-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2016-01-01,24.9507694244
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.LO.TC.ZS-BF,2017-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1960-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1961-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1962-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1963-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1964-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1965-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1966-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1967-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1968-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1969-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1970-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1971-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1972-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1973-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1974-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1975-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1976-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1977-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1978-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1979-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1980-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1981-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1982-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1983-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1984-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1985-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1986-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1987-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1988-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1989-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1990-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1991-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1992-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1993-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1994-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1995-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1996-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1997-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1998-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,1999-01-01,31.1199607849
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2000-01-01,32.3925895691
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2001-01-01,32.1569213867
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2002-01-01,30.7942905426
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2003-01-01,35.2492599487
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2004-01-01,40.683921814
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2005-01-01,37.9651489258
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2006-01-01,35.1515693665
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2007-01-01,36.0057487488
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2008-01-01,36.886138916
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2009-01-01,37.9546699524
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2010-01-01,37.0735397339
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2011-01-01,38.3196411133
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2012-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2013-01-01,31.3488292694
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2014-01-01,29.5410804749
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2015-01-01,28.6914291382
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2016-01-01,25.3408107758
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.LO.TC.ZS-ML,2017-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1960-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1961-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1962-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1963-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1964-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1965-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1966-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1967-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1968-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1969-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1970-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1971-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1972-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1973-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1974-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1975-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1976-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1977-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1978-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1979-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1980-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1981-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1982-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1983-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1984-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1985-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1986-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1987-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1988-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1989-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1990-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1991-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1992-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1993-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1994-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1995-01-01,40.507270813
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1996-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1997-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1998-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,1999-01-01,47.5336685181
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2000-01-01,27.892490387
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2001-01-01,27.8997592926
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2002-01-01,29.2980003357
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2003-01-01,26.3238391876
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2004-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2005-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2006-01-01,27.7540607452
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2007-01-01,29.8812198639
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2008-01-01,34.6797904968
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2009-01-01,37.9116401672
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2010-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2011-01-01,46.8908996582
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2012-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2013-01-01,56.5939483643
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2014-01-01,51.9468994141
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2015-01-01,53.2271690369
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2016-01-01,38.1892318726
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.LO.TC.ZS-MR,2017-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1960-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1961-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1962-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1963-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1964-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1965-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1966-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1967-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1968-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1969-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1970-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1971-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1972-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1973-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1974-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1975-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1976-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1977-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1978-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1979-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1980-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1981-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1982-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1983-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1984-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1985-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1986-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1987-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1988-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1989-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1990-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1991-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1992-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1993-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1994-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1995-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1996-01-01,34.3211517334
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1997-01-01,33.6960716248
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1998-01-01,33.4301300049
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,1999-01-01,33.8340301514
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2000-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2001-01-01,35.7919502258
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2002-01-01,38.9317893982
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2003-01-01,44.3146209717
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2004-01-01,44.9793510437
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2005-01-01,48.2012710571
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2006-01-01,32.4496116638
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2007-01-01,30.5831604004
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2008-01-01,31.2299804688
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2009-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2010-01-01,34.5621604919
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2011-01-01,37.1755218506
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2012-01-01,41.3624610901
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2013-01-01,32.7457504272
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2014-01-01,26.6282691956
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2015-01-01,33.3801002502
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2016-01-01,30.5287208557
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.LO.TC.ZS-NE,2017-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1960-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1961-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1962-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1963-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1964-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1965-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1966-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1967-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1968-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1969-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1970-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1971-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1972-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1973-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1974-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1975-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1976-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1977-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1978-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1979-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1980-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1981-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1982-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1983-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1984-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1985-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1986-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1987-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1988-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1989-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1990-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1991-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1992-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1993-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1994-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1995-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1996-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1997-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1998-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,1999-01-01,40.9061698914
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2000-01-01,36.1091384888
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2001-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2002-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2003-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2004-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2005-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2006-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2007-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2008-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2009-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2010-01-01,42.7430992126
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2011-01-01,43.5200309753
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2012-01-01,41.5542793274
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2013-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2014-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2015-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2016-01-01,NA
+WDI,"Pupil-teacher ratio, lower secondary",,SE.SEC.ENRL.LO.TC.ZS,"Pupil-teacher ratio, lower secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.LO.TC.ZS-TD,2017-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1960-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1961-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1962-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1963-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1964-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1965-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1966-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1967-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1968-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1969-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1970-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1971-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1972-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1973-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1974-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1975-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1976-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1977-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1978-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1979-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1980-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1981-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1982-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1983-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1984-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1985-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1986-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1987-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1988-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1989-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1990-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1991-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1992-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1993-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1994-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1995-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1996-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1997-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1998-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,1999-01-01,23.3965301514
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2000-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2001-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2002-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2003-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2004-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2005-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2006-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2007-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2008-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2009-01-01,16.0522003174
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2010-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2011-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2012-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2013-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2014-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2015-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2016-01-01,17.9334506989
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.SEC.ENRL.UP.TC.ZS-BF,2017-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1960-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1961-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1962-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1963-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1964-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1965-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1966-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1967-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1968-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1969-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1970-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1971-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1972-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1973-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1974-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1975-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1976-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1977-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1978-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1979-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1980-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1981-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1982-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1983-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1984-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1985-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1986-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1987-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1988-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1989-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1990-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1991-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1992-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1993-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1994-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1995-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1996-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1997-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1998-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,1999-01-01,24.2599105835
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2000-01-01,24.2587509155
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2001-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2002-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2003-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2004-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2005-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2006-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2007-01-01,12.6808099747
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2008-01-01,13.0542402267
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2009-01-01,13.1016101837
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2010-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2011-01-01,13.2269802094
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2012-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2013-01-01,10.6303596497
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2014-01-01,10.8324699402
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2015-01-01,11.5146303177
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2016-01-01,13.1496801376
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mali",WB,Mali,World Development Indicators,annual,ML,SE.SEC.ENRL.UP.TC.ZS-ML,2017-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1960-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1961-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1962-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1963-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1964-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1965-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1966-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1967-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1968-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1969-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1970-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1971-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1972-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1973-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1974-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1975-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1976-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1977-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1978-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1979-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1980-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1981-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1982-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1983-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1984-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1985-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1986-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1987-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1988-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1989-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1990-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1991-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1992-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1993-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1994-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1995-01-01,16.5926208496
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1996-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1997-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1998-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,1999-01-01,17.3833999634
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2000-01-01,24.0404701233
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2001-01-01,24.3247108459
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2002-01-01,22.7335205078
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2003-01-01,25.7248306274
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2004-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2005-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2006-01-01,24.3818798065
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2007-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2008-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2009-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2010-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2011-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2012-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2013-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2014-01-01,17.2781391144
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2015-01-01,17.1625709534
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2016-01-01,15.4460802078
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.SEC.ENRL.UP.TC.ZS-MR,2017-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1960-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1961-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1962-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1963-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1964-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1965-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1966-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1967-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1968-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1969-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1970-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1971-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1972-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1973-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1974-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1975-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1976-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1977-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1978-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1979-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1980-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1981-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1982-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1983-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1984-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1985-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1986-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1987-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1988-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1989-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1990-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1991-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1992-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1993-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1994-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1995-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1996-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1997-01-01,14.002579689
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1998-01-01,15.6009702682
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,1999-01-01,12.4929103851
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2000-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2001-01-01,10.2970504761
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2002-01-01,10.9329595566
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2003-01-01,9.4793300629
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2004-01-01,10.9351501465
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2005-01-01,8.6146802902
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2006-01-01,20.2143707275
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2007-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2008-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2009-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2010-01-01,17.7766208649
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2011-01-01,23.8622398376
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2012-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2013-01-01,14.91685009
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2014-01-01,20.6142997742
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2015-01-01,16.5599594116
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2016-01-01,17.5385093689
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Niger",WB,Niger,World Development Indicators,annual,NE,SE.SEC.ENRL.UP.TC.ZS-NE,2017-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1960-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1961-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1962-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1963-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1964-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1965-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1966-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1967-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1968-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1969-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1970-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1971-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1972-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1973-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1974-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1975-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1976-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1977-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1978-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1979-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1980-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1981-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1982-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1983-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1984-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1985-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1986-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1987-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1988-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1989-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1990-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1991-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1992-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1993-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1994-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1995-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1996-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1997-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1998-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,1999-01-01,22.6471500397
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2000-01-01,25.4759197235
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2001-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2002-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2003-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2004-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2005-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2006-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2007-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2008-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2009-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2010-01-01,20.3559799194
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2011-01-01,19.9476203918
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2012-01-01,17.8228397369
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2013-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2014-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2015-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2016-01-01,NA
+WDI,"Pupil-teacher ratio, upper secondary",,SE.SEC.ENRL.UP.TC.ZS,"Pupil-teacher ratio, upper secondary – Chad",WB,Chad,World Development Indicators,annual,TD,SE.SEC.ENRL.UP.TC.ZS-TD,2017-01-01,NA

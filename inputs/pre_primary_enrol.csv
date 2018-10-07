@@ -1,0 +1,291 @@
+dataset_code,indicator_label,ATTRIBUTE,indicator,series_name,provider_code,country_label,dataset_name,@frequency,country,series_code,period,value
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1960-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1961-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1962-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1963-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1964-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1965-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1966-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1967-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1968-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1969-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1970-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1971-01-01,0.0706899986
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1972-01-01,0.080339998
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1973-01-01,0.1089100018
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1974-01-01,0.0980100036
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1975-01-01,0.0854199976
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1976-01-01,0.0876400024
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1977-01-01,0.1248800009
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1978-01-01,0.0967999995
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1979-01-01,0.1279599965
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1980-01-01,0.1321599931
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1981-01-01,0.0595799983
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1982-01-01,0.0819000006
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1983-01-01,0.0992600024
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1984-01-01,0.2261199951
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1985-01-01,0.3639900088
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1986-01-01,0.4642100036
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1987-01-01,0.5980200171
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1988-01-01,0.6854900122
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1989-01-01,0.7447599769
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1990-01-01,0.6501799822
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1991-01-01,0.773549974
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1992-01-01,0.8420500159
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1993-01-01,0.8585900068
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1994-01-01,1.0517100096
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1995-01-01,1.0410200357
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1996-01-01,1.3888200521
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1997-01-01,1.6722700596
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1998-01-01,1.7207900286
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,1999-01-01,1.8380000591
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2000-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2001-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2002-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2003-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2004-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2005-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2006-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2007-01-01,2.9971699715
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2008-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2009-01-01,2.8991398811
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2010-01-01,2.7905399799
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2011-01-01,3.0903499126
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2012-01-01,3.6486599445
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2013-01-01,4.0037498474
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2014-01-01,4.1774997711
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2015-01-01,4.1388301849
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2016-01-01,3.0508499146
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Burkina Faso",WB,Burkina Faso,World Development Indicators,annual,BF,SE.PRE.ENRR-BF,2017-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1960-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1961-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1962-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1963-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1964-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1965-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1966-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1967-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1968-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1969-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1970-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1971-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1972-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1973-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1974-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1975-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1976-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1977-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1978-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1979-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1980-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1981-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1982-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1983-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1984-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1985-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1986-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1987-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1988-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1989-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1990-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1991-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1992-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1993-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1994-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1995-01-01,1.2884399891
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1996-01-01,1.3602900505
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1997-01-01,1.5566500425
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1998-01-01,1.7444700003
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,1999-01-01,1.5372699499
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2000-01-01,1.5316100121
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2001-01-01,1.5581400394
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2002-01-01,1.3367899656
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2003-01-01,1.7540199757
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2004-01-01,2.1665000916
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2005-01-01,2.7318799496
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2006-01-01,2.9647901058
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2007-01-01,3.0379300117
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2008-01-01,3.2749900818
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2009-01-01,3.1811699867
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2010-01-01,3.1810100079
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2011-01-01,3.4052600861
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2012-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2013-01-01,3.6915199757
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2014-01-01,3.9358398914
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2015-01-01,4.0499901772
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2016-01-01,4.3633298874
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mali",WB,Mali,World Development Indicators,annual,ML,SE.PRE.ENRR-ML,2017-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1960-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1961-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1962-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1963-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1964-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1965-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1966-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1967-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1968-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1969-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1970-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1971-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1972-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1973-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1974-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1975-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1976-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1977-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1978-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1979-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1980-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1981-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1982-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1983-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1984-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1985-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1986-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1987-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1988-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1989-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1990-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1991-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1992-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1993-01-01,0.3845399916
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1994-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1995-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1996-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1997-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1998-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,1999-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2000-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2001-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2002-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2003-01-01,1.903660059
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2004-01-01,1.7354199886
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2005-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2006-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2007-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2008-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2009-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2010-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2011-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2012-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2013-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2014-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2015-01-01,10.2245101929
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2016-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Mauritania",WB,Mauritania,World Development Indicators,annual,MR,SE.PRE.ENRR-MR,2017-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1960-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1961-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1962-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1963-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1964-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1965-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1966-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1967-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1968-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1969-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1970-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1971-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1972-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1973-01-01,0.2149800062
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1974-01-01,0.2385299951
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1975-01-01,0.2305400074
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1976-01-01,0.258190006
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1977-01-01,0.3540099859
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1978-01-01,0.4131700099
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1979-01-01,0.4523400068
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1980-01-01,0.5970000029
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1981-01-01,0.4346300066
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1982-01-01,0.4419499934
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1983-01-01,0.4425199926
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1984-01-01,0.4745199978
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1985-01-01,0.55216997860000006
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1986-01-01,0.5701900125
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1987-01-01,0.6507400274
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1988-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1989-01-01,1.2388399839
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1990-01-01,1.3801800013
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1991-01-01,1.4427399635
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1992-01-01,1.5715700388
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1993-01-01,1.4550700188
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1994-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1995-01-01,1.0864200592
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1996-01-01,0.9836999774
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1997-01-01,1.0863699913
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1998-01-01,1.1470500231
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,1999-01-01,1.0789899826
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2000-01-01,0.9298099875
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2001-01-01,1.0701400042
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2002-01-01,1.2888799906
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2003-01-01,1.3578900099
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2004-01-01,1.3680100441
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2005-01-01,1.4104399681
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2006-01-01,1.6906599998
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2007-01-01,1.8929400444
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2008-01-01,2.3686599731
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2009-01-01,2.9414200783
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2010-01-01,3.9835999012
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2011-01-01,5.4626598358
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2012-01-01,6.0076899529
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2013-01-01,6.9575901031
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2014-01-01,7.1189398766
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2015-01-01,7.3981699944
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2016-01-01,7.9162898064
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Niger",WB,Niger,World Development Indicators,annual,NE,SE.PRE.ENRR-NE,2017-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1960-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1961-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1962-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1963-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1964-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1965-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1966-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1967-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1968-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1969-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1970-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1971-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1972-01-01,0.3301399946
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1973-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1974-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1975-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1976-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1977-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1978-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1979-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1980-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1981-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1982-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1983-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1984-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1985-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1986-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1987-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1988-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1989-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1990-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1991-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1992-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1993-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1994-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1995-01-01,0.2294699997
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1996-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1997-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1998-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,1999-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2000-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2001-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2002-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2003-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2004-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2005-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2006-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2007-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2008-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2009-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2010-01-01,1.7085000277
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2011-01-01,1.7553600073
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2012-01-01,1.4559799433
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2013-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2014-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2015-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2016-01-01,NA
+WDI,"School enrollment, preprimary (% gross)",,SE.PRE.ENRR,"School enrollment, preprimary (% gross) – Chad",WB,Chad,World Development Indicators,annual,TD,SE.PRE.ENRR-TD,2017-01-01,NA
