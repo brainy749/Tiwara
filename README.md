@@ -22,5 +22,6 @@ Issues are listed [here](https://github.com/brainy749/Tiwara/issues).
 * Data Pipelines: direct connection with API's and datasets 
 * Optimization of the Code for Speed
 * Improve Reactivity of Shiny Components
+
 See a preview [here](https://afdshiny.shinyapps.io/Tiwara/).
 
